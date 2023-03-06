@@ -2,7 +2,8 @@
 ## Table of Contents
 
 ### 前言
-[必读前言](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain/blob/master/0_0.md)
+[必读前言](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain/blob/master/0_0.md) ✅
+
 ### 安全与加密
 [1.1 密码学基础](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain/blob/master/1_1.md)
 
@@ -29,19 +30,19 @@
 [3.2 账户模型](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain/blob/master/3_2.md)
 
 ### 智能合约
-[4.1 Gas机制](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain/blob/master/4_1.md)
+[4.1 Gas机制](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain/blob/master/4_1.md) ✅
 
-[4.2 Solidity开发环境](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain/blob/master/4_2.md)
+[4.2 Solidity开发环境](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain/blob/master/4_2.md) ✅
 
-[4.3 合约结构](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain/blob/master/4_3.md)
+[4.3 合约结构](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain/blob/master/4_3.md) ✅
 
-[4.4 变量](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain/blob/master/4_4.md)
+[4.4 变量](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain/blob/master/4_4.md) ✅
 
-[4.5 控制结构与异常处理](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain/blob/master/4_5.md)
+[4.5 控制结构与异常处理](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain/blob/master/4_5.md) ✅
 
-[4.6 函数与事件](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain/blob/master/4_6.md)
+[4.6 函数与事件](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain/blob/master/4_6.md) ✅
 
-[4.7 合约继承](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain/blob/master/4_7.md)
+[4.7 合约继承](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain/blob/master/4_7.md) ✅
 
 ### 深入EVM虚拟机
 [5.1 EVM简介](https://github.com/Ice-Storm/structure-and-interpretation-of-blockchain/blob/master/5_1.md)
